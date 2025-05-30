@@ -5,7 +5,7 @@ cards:
   message: "Welcome to flashstack cards related local APIs"
   contactDetails:
     name: "John Doe"
-    email: "john@flashstack.com"
+    email: "{cipher}710d7090191db955133e900585d0716503f72a3e6e32bc5393979ea56d4dad1c8253c98945462688e6b433f663050a17"
   onCallSupport:
     - (+91) 1234567890
     - (+91) 1234567891

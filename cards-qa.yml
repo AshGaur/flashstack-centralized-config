@@ -5,7 +5,7 @@ cards:
   message: "Welcome to flashstack cards related QA APIs"
   contactDetails:
     name: "Bruce Banner - QA lead"
-    email: "bruce@flashstack.com"
+    email: "{cipher}f727372433c463dca5ce10edad8ab5084a04e63b30b171076277c315a5171836e06f47a8ebc20dafb8a4d88133df3e8a"
   onCallSupport:
     - (+91) 1234567890
     - (+91) 1234567891
