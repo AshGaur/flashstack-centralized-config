@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to flashstack loans related Prod APIs"
+  message: "Welcome to flashstack loans related Production APIs"
   contactDetails:
     name: "Tony Stark"
     email: "{cipher}49d7c23ba87ebc4315879b6f75d6f24892c9ccb70d8b1a5252d37a977fe7cb8a7c57d486e0618f212ff9849ca63f403d"
